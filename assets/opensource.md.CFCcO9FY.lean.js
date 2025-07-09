@@ -1,0 +1,1 @@
+import{_ as e,c as n,o,ae as t}from"./chunks/framework.BLcZJ-ht.js";const h=JSON.parse('{"title":"开源软件/代码：","description":"","frontmatter":{},"headers":[],"relativePath":"opensource.md","filePath":"opensource.md"}'),r={name:"opensource.md"};function u(s,a,l,p,d,c){return o(),n("div",null,a[0]||(a[0]=[t("",5)]))}const m=e(r,[["render",u]]);export{h as __pageData,m as default};

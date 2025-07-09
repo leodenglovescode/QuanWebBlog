@@ -1,0 +1,1 @@
+import{_ as a,c as r,o,ae as t}from"./chunks/framework.BLcZJ-ht.js";const u=JSON.parse('{"title":"鸣谢:","description":"","frontmatter":{},"headers":[],"relativePath":"thanks.md","filePath":"thanks.md"}'),l={name:"thanks.md"};function n(d,e,s,h,i,b){return o(),r("div",null,e[0]||(e[0]=[t("",8)]))}const q=a(l,[["render",n]]);export{u as __pageData,q as default};
