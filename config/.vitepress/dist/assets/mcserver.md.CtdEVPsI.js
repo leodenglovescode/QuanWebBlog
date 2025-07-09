@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t}from"./chunks/framework.Dz0IrTjD.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mcserver.md","filePath":"mcserver.md"}'),a={name:"mcserver.md"};function s(c,o,n,m,p,_){return t(),r("div")}const f=e(a,[["render",s]]);export{i as __pageData,f as default};
